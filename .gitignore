@@ -1,0 +1,12 @@
+# Ignore Python virtual environments
+venv/
+__pycache__/
+
+# Ignore secrets and local config
+.env
+
+# Ignore compiled files
+*.pyc
+
+# Ignore system files
+.DS_Store
